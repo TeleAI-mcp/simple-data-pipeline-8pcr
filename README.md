@@ -1,2 +1,3 @@
-# simple-data-pipeline-8pcr
-A repository to test GitHub automation for issue management
+# Simple Data Pipeline 8Pcr
+
+A repository to test GitHub automation for issue management.
